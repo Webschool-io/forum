@@ -4,11 +4,11 @@
  
 # Fórum
  
-Esse espaço foi criado para reunir discussões sobre desenvolvimento nas issues deste repositório no formato de fórum.
+Este espaço foi criado para reunir discussões, sobre desenvolvimento full-stack, nas issues deste repositório no formato de fórum.
  
 # Formato
  
-As discuçes devem ser iniciadas atraves de uma [issues](https://github.com/Webschool-io/forum/issues), como um topico em um fórum comum. Lembre-se de realizar uma pequena pesquisa sobre o tema para verificar se a sua dúvida ja não foi respondida.
+As discussões devem ser iniciadas através de uma [issue](https://github.com/Webschool-io/forum/issues), como um tópico em um fórum comum. Lembre-se de realizar uma pequena pesquisa sobre o tema para verificar se sua dúvida já não foi respondida.
  
 # Código de Conduta
  
