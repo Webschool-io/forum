@@ -25,3 +25,18 @@ Você pode receber atualizações do Fórum no seu e-mail ou via notificações 
 <p align="center">
   <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
 </p>
+
+# A Webschool
+
+A Webschool começou com um curso voltado a ensinar o STACK conhecido como MEAN(MongoDb, Express, AngularJS e Node.js) e muitas outras tecnologias que utilizam JavaScript. Hoje a webschool é uma comunidade aberta de desenvolvimento fullstack que ainda realiza diversos cursos mensais e gratuitos para a comunidade.
+ 
+Conheça os projetos da Webschool:
+ 
+*[Curso BeMean](https://github.com/Webschool-io/be-mean)
+*[Workshop JS Funcional](https://github.com/Webschool-io/workshop-js-funcional-free)
+*[Curso Matemática para Programadores](https://github.com/Webschool-io/matematica-para-programadores)
+*[Bot para Telegram BeMean](https://github.com/Webschool-io/Bot-Telegram-BeMEAN)
+ 
+A Webschool tem o desejo de se tornar a maior fonte de conteúdo acadêmico gratuito.
+
+
